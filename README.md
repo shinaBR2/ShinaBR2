@@ -40,4 +40,16 @@ Things that I focus on:
   <a href="https://dev.to/shinabr2">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="ShinaBR2's DEV Profile" height="30" width="30">
   </a>
+  <a href="https://medium.com/@shinabr2">
+    <img src="https://github.com/shinaBR2/ShinaBR2/blob/master/medium.svg" alt="ShinaBR2's Medium Profile" height="30" width="30">
+  </a>
+  <a href="https://dev.to/shinabr2">
+    <img src="https://github.com/shinaBR2/ShinaBR2/blob/master/github.svg" alt="ShinaBR2's Github Profile" height="30" width="30">
+  </a>
+  <a href="https://stackoverflow.com/users/8270395/shinabr2">
+    <img src="https://github.com/shinaBR2/ShinaBR2/blob/master/stack-overflow.svg" alt="ShinaBR2's StackOverflow Profile" height="30" width="30">
+  </a>
+  <a href="https://shinabr2.com/">
+    <img src="https://github.com/shinaBR2/ShinaBR2/blob/master/external-link.svg" alt="ShinaBR2's Home Page" height="30" width="30">
+  </a>
 </p>
