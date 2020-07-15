@@ -32,8 +32,9 @@ Things that I focus on:
 - [Pure Frontend](https://github.com/shinaBR2/pure-frontend): a pure frontend, open source project with combination some of popular framework to get started with like GatsbyJS, Firebase, Apolo-client.
 - [Ulala Pet Wiki](https://shinabr2.com/ulala/): a wiki-like page for an online mobile game that I build everything from scratch. For now, my site has more than 200 active users daily and around 23k users till now.
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.13.1/css/all.min.css" crossorigin="anonymous">
 
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinabr2)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
 <i>Find me on</i>
 <p align="center">
