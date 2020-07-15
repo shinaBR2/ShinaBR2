@@ -22,9 +22,9 @@ Things that I focus on:
 - Product Mindset.
 - [ReactJS](https://reactjs.org/).
 - [GraphQL](https://graphql.org/).
-- [Gatsby](https://www.gatsbyjs.org/)
-- [Netlify](https://www.netlify.com/)
-- [Hasura](https://hasura.io/)
+- [Gatsby](https://www.gatsbyjs.org/).
+- [Netlify](https://www.netlify.com/).
+- [Hasura](https://hasura.io/).
 - [Firebase](https://firebase.google.com/) and [Google Cloud Platform](https://cloud.google.com/).
 
 ## My Projects
