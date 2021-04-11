@@ -3,7 +3,7 @@
 Perfectionist and passionate freelancer frontend developer, willing to learn and make good user experience products. I can make a totally new production ready product from scratch with understanding about architecture from backend to frontend side. Beside from that, I am always seriously thinking about user experience and making better coding quality as well.
 
 <p align="center">
-<img src="https://www.shinabr2.com/static/intro-1190739a8b5c469dfa1035674b6d94c2.png" alt="Dont make me think" />
+<img src="https://res.cloudinary.com/shinabr2/image/upload/v1596200768/profile/sharer-min.png" alt="Dont make me think" />
 </p>
 
 ## My favorite quote
