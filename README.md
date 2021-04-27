@@ -18,6 +18,24 @@ Perfectionist and passionate freelancer frontend developer, willing to learn and
 
 ## My skills
 
+```
+const whatICanDoFromYourCompanyStack = (stack) => {
+  if (stack == 'angularjs' || stack == 'php') {
+    return 'NO';
+  }
+
+  if (stack == 'graphql') {
+    return 'fullstack';
+  }
+
+  if (stack == 'reactjs') {
+    return 'frontend';
+  }
+
+  return 'backend';
+}
+```
+
 Things that I focus on:
 - Product Mindset.
 - [ReactJS](https://reactjs.org/).
