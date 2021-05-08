@@ -53,6 +53,7 @@ Things that I focus on:
 ## My talks
 
 - [From Frontend to Architect](https://github.com/shinaBR2/justiceforfrontend): the first talk in the serie #JusticeForFrontend which tell the reason why Frontend Developer should understand about architecture.
+- [Frontend Developer nowadays](https://docs.google.com/presentation/d/1poug18RJ8znFIiku65sqs4vn9i-JuA7pDW7Tqe7rmbU/edit?usp=sharing): first talk with RMIT students about overview of Frontend developer nowadays.
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinabr2)](https://github.com/anuraghazra/github-readme-stats)
