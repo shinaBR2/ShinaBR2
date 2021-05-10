@@ -22,7 +22,7 @@ Perfectionist and passionate freelancer frontend developer, willing to learn and
 
 
 ```
-const whatICanDoFromYourCompanyStack = (stack) => {
+const whatIWantToDoFromYourCompanyStack = (stack) => {
   if (stack == 'angularjs' || stack == 'php') {
     return 'NO';
   }
