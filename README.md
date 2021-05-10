@@ -18,6 +18,9 @@ Perfectionist and passionate freelancer frontend developer, willing to learn and
 
 ## My skills
 
+**What I can do: everything!** Below is my favor.
+
+
 ```
 const whatICanDoFromYourCompanyStack = (stack) => {
   if (stack == 'angularjs' || stack == 'php') {
