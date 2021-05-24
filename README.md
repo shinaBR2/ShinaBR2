@@ -61,7 +61,7 @@ Things that I focus on:
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shinabr2)](https://github.com/anuraghazra/github-readme-stats)
 <hr>
-<i>Find me on</i>
+<i><a href="mailto:ShinaBR2@gmail.com">Email</a> or find me on</i>
 <p align="center">
   <a href="https://dev.to/shinabr2" target="_blank" rel="noopener me">
     <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="ShinaBR2's DEV Profile" height="30" width="30">
