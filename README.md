@@ -18,33 +18,13 @@ Perfectionist and passionate freelancer frontend developer, willing to learn and
 
 ## My skills
 
-**What I can do: everything!** Below is my favor.
+**What I can do: everything!**
 
-
-```
-const whatIWantToDoFromYourCompanyStack = (stack) => {
-  if (stack == 'angularjs' || stack == 'php') {
-    return 'NO';
-  }
-
-  if (stack == 'graphql') {
-    return 'fullstack';
-  }
-
-  if (stack == 'reactjs') {
-    return 'frontend';
-  }
-
-  return 'backend';
-}
-```
-
-Things that I focus on:
+Things that I like:
 - Product Mindset.
 - [ReactJS](https://reactjs.org/).
 - [GraphQL](https://graphql.org/).
 - [Gatsby](https://www.gatsbyjs.org/).
-- [Netlify](https://www.netlify.com/).
 - [Hasura](https://hasura.io/).
 - [Firebase](https://firebase.google.com/) and [Google Cloud Platform](https://cloud.google.com/).
 
@@ -53,8 +33,9 @@ Things that I focus on:
 - [Pure Frontend](https://github.com/shinaBR2/pure-frontend): a pure frontend, open source project with combination some of popular framework to get started with like GatsbyJS, Firebase, Apolo-client.
 - [Ulala Pet Wiki](https://shinabr2.com/ulala/): a wiki-like page for an online mobile game that I build everything from scratch. For now, my site has more than 200 active users daily and around 23k users till now.
 
-## My talks
+## My talks and blogs
 
+- [My wiki](https://github.com/shinaBR2/ShinaBR2/wiki)
 - [From Frontend to Architect](https://github.com/shinaBR2/justiceforfrontend): the first talk in the serie #JusticeForFrontend which tell the reason why Frontend Developer should understand about architecture.
 - [Frontend Developer nowadays](https://docs.google.com/presentation/d/1poug18RJ8znFIiku65sqs4vn9i-JuA7pDW7Tqe7rmbU/edit?usp=sharing): first talk with RMIT students about overview of Frontend developer nowadays.
 
