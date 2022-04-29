@@ -31,7 +31,7 @@ Things that I like:
 ## My Projects
 
 - [Pure Frontend](https://github.com/shinaBR2/pure-frontend): a pure frontend, open source project with combination some of popular framework to get started with like GatsbyJS, Firebase, Apolo-client.
-- [Ulala Pet Wiki](https://shinabr2.com/ulala/): a wiki-like page for an online mobile game that I build everything from scratch. For now, my site has more than 200 active users daily and around 23k users till now.
+- [Ulala Pet Wiki](https://shinabr2.com/ulala/) (stopped): a wiki-like page for an online mobile game that I build everything from scratch. It had more than 200 active users daily and around 23k users.
 
 ## My talks and blogs
 
