@@ -32,6 +32,7 @@ Things that I like:
 
 - [Pure Frontend](https://github.com/shinaBR2/pure-frontend): a pure frontend, open source project with combination some of popular framework to get started with like GatsbyJS, Firebase, Apolo-client.
 - [Ulala Pet Wiki](https://shinabr2.com/ulala/) (stopped): a wiki-like page for an online mobile game that I build everything from scratch. It had more than 200 active users daily and around 23k users.
+- [Life Core](https://www.npmjs.com/package/@shinabr2/life-core): new set of hooks and helpers for entire of development life. The first release is a headless UI audio player component 🆕
 
 ## My talks and blogs
 
