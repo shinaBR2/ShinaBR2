@@ -46,9 +46,9 @@ I can setup everything from database to production quality application.
 - DevOps (preferred serverless solutions): [Google Cloud Platform](https://cloud.google.com/), [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), [Github actions](https://github.com/features/actions)
 - Familiar with DNS, event driven architecture, webhook, queue, error reporting
 
-## Products and services
+## Others
 
-Have experience working with [Stripe](https://stripe.com/)
+Have experience working with [Stripe](https://stripe.com/), currently working with a blockchain project using Arbitrum, ERC-1155 smart contract, NFT.
 
 ## Technical writer and talks
 
