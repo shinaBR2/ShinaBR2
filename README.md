@@ -23,6 +23,7 @@ I can build everything from sratch!
 
 ## Mindset and communication
 
+- Remote working style
 - Startup mindset, can make things done
 - Fluent in spoken and written English
 - Agile, flexibility, multitasks, proactive
