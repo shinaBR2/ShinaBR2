@@ -1,7 +1,7 @@
 
 # About me
 
-Perfectionist and passionate developer, can do everything. Neither food nor fun, I code for my life. Show me the problem, and I will resolve it.
+Perfectionist and passionate developer, can do everything. Neither food nor fun, I code for my life. Show me the problem, and I will solve it.
 
 <p  align="center">
 <img  src="https://res.cloudinary.com/shinabr2/image/upload/v1596200768/profile/sharer-min.png"  alt="Dont make me think" />
