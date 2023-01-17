@@ -69,7 +69,7 @@ Old projects:
 
 <hr>
 
-<i><a  href="mailto:ShinaBR2@gmail.com">Email</a> or find me on</i>
+<i><a  href="mailto:ShinaBR2@gmail.com">Email: ShinaBR2@gmail.com</a> or find me on</i>
 
 <p  align="center">
 
