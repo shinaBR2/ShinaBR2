@@ -60,6 +60,12 @@ Other talks:
 
 ## My Projects
 
+### Main projects
+
+My latest project is [ActiveImage](https://github.com/shinaBR2/ShinaBR2/blob/master/Projects.md#activeimage). I worked as a fullstack developer.
+
+### Personal projects
+
 My latest personal project: https://github.com/shinaBR2/shinabr2-world.
 Old projects:
 - [Pure Frontend](https://github.com/shinaBR2/pure-frontend): a pure frontend, open source project with combination some of popular framework to get started with like GatsbyJS, Firebase, Apolo-client.
