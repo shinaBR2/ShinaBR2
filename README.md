@@ -60,6 +60,8 @@ Other talks:
 
 ## My Projects
 
+See my typical projects here: https://docs.google.com/presentation/d/1ZJ6YP0UOpLTn-FLkjYXWjjBhHSArGVX28eyi6cCr3ys/edit?usp=sharing
+
 ### Main projects
 
 My latest project is [ActiveImage](https://github.com/shinaBR2/ShinaBR2/blob/master/Projects.md#activeimage). I worked as a fullstack developer.
