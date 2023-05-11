@@ -29,6 +29,13 @@ I can build everything from sratch!
 - Agile, flexibility, multitasks, proactive
 - Quick problem solving with trade off, can explain things in easy way to understand.
 
+## Blockchain
+
+Have experience with Blockchain, Etherum, smart contracts and how they connected to the frontend. My latest project is https://activeimage.io/ which used:
+- Arbitrum (layer 2 Ethereum), NFT
+- Solidity, smart contract using ERC-1155
+- Integrate web3 to the system using NodeJS
+
 ## Frontend
 
 Solid understanding about frontend architecture, performance tuning, client - server architecture, network protocols, bundler, caching, authentication, authorization, CI/CD. Good UX sense.
