@@ -23,7 +23,7 @@ I can build everything from sratch!
 
 ## Mindset and communication
 
-- Remote working style
+- **Remote working style**
 - Startup mindset, can make things done
 - Fluent in spoken and written English
 - Agile, flexibility, multitasks, proactive
@@ -46,6 +46,10 @@ I can setup everything from database to production quality application.
 - DevOps (preferred serverless solutions): [Google Cloud Platform](https://cloud.google.com/), [Netlify](https://www.netlify.com/), [Vercel](https://vercel.com/), [Github actions](https://github.com/features/actions)
 - Familiar with DNS, event driven architecture, webhook, queue, error reporting
 
+## Testing
+
+Have experience with unit test, integration test, and e2e testing. An example of my testing project: https://github.com/shinaBR2/interview-test-share-videos
+
 ## Others
 
 Have experience working with [Stripe](https://stripe.com/), currently working with a blockchain project using Arbitrum, ERC-1155 smart contract, NFT.
@@ -53,6 +57,11 @@ Have experience working with [Stripe](https://stripe.com/), currently working wi
 ## Technical writer and talks
 
 You can see my blog posts in [medium](https://medium.com/@shinabr2), [dev.to](https://dev.to/shinabr2), or via my [latest project wiki](https://github.com/shinaBR2/shinabr2-world/wiki).
+
+Published articles (I worked as a technical writer for a while):
+- https://devsamurai.vn/blog/how-to-choose-solutions-for-a-technical-problem/
+- https://devsamurai.vn/blog/history-of-web-development/
+- https://devsamurai.vn/blog/pwa-and-why-it-is-good/
 
 Other talks:
 - [From Frontend to Architect](https://github.com/shinaBR2/justiceforfrontend): the first talk in the serie #JusticeForFrontend which tell the reason why Frontend Developer should understand about architecture.
