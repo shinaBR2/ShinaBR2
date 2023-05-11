@@ -33,7 +33,7 @@ I can build everything from sratch!
 
 Have experience with Blockchain, Etherum, smart contracts and how they connected to the frontend. My latest project is https://activeimage.io/ which used:
 - Arbitrum (layer 2 Ethereum), NFT
-- Solidity, smart contract using ERC-1155
+- Solidity, smart contract using ERC-1155, truffle, hardhat
 - Integrate web3 to the system using NodeJS
 
 ## Frontend
