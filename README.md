@@ -17,6 +17,10 @@ Perfectionist and passionate developer, can do everything. Neither food nor fun,
 - "Bad programmers worry about the code. Good programmers worry about data structures and their relationships." - Linus Torvalds.
 - "Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world." - Albert Einstein.
 
+## My CV
+
+View my pdf version [here](https://drive.google.com/file/d/11VSUole2m30Z9QDP2oF7nnVO2eEvzo6U/view?usp=sharing)
+
 # Stats for nerds
 
 I can build everything from sratch!
